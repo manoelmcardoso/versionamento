@@ -94,7 +94,7 @@ Explique o contexto do projeto:
 |------------|-------------|
 | Linguagem | JavaScript |
 | Framework Frontend | React.js |
-| Backend | Node.js / Express |
+| Backend | Node.js |
 | Banco de Dados | MongoDB |
 | Estilização | Tailwind CSS |
 | Versionamento | Git & GitHub |
