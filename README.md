@@ -1,18 +1,18 @@
 # versionamento
 Repositório de projetos da Unidade de Versionamento e Colaboração do curso Técnico de Informática para Internet do Senai - MA
 
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Manoel Matias!
 
 🎓 **Sobre mim:**  
-Sou [sua formação — ex: estudante de Engenharia de Software / desenvolvedor full-stack / analista de dados], apaixonado por tecnologia e inovação.  
+Sou estudante de Técnico em Informática para Internet, apaixonado por tecnologia e inovação.  
 Gosto de transformar ideias em soluções práticas e aprender novas ferramentas todos os dias.
 
 ---
 
 ## 💼 O que faço atualmente
-- 🔭 Trabalhando em: **[Nome do projeto atual ou empresa]**  
-- 🌱 Aprendendo: **[Tecnologia ou linguagem que está estudando]**  
-- 💬 Pergunte-me sobre: **[temas que domina — ex: JavaScript, APIs REST, banco de dados, UX]**
+- 🔭 Trabalhando em: **[Não trabalho]**  
+- 🌱 Aprendendo: **[Estudando JavaScript]**  
+- 💬 Pergunte-me sobre: **[JavaScript, APIs REST, banco de dados]**
 
 ---
 
